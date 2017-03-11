@@ -7,7 +7,8 @@ Complete solutions for Coursera [Machine Learning] programming assignments for s
 - Some variables are used verbose way which is intentional for understanding with actual lecture and problem description.
 
 ### Note
-This is my own work and for reference only. Anyone who take the course should follow Courseras [Honor Code]
+- This is my own work and for reference only. Anyone who take the course should follow Courseras [Honor Code]
+- Copywrite of data and some functions are mentioned in course itself.
 
 **Happy Learning!**
 
